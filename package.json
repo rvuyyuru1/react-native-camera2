@@ -2,12 +2,7 @@
   "name": "react-native-camera2",
   "description": "A Camera component for React Native. Also reads barcodes.",
   "version": "1.0.0",
-  "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-native-camera",
-    "logo": "https://opencollective.com/opencollective/logo.txt"
-  },
+  "author": "Raja shekar reddy vuyyuru",
   "dependencies": {
     "deprecated-react-native-prop-types": "^4.0.0",
     "prop-types": "^15.6.2"
@@ -70,7 +65,7 @@
   "pre-commit": "lint:staged",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-camera.git"
+    "url": "https://github.com/rvuyyuru1/react-native-camera2.git"
   },
   "scripts": {
     "commit": "git-cz",
